@@ -1,0 +1,52 @@
+<library>
+    <book>
+        <author>Khvylovy</author>
+        <title>I</title>
+        <year>1924</year>
+    </book>
+    <book>
+        <author>McCarthy</author>
+        <title>No Country for Old Men</title>
+        <year>2005</year>
+    </book>
+    <book>
+        <author>Stevenson</author>
+        <title>Treasure Island</title>
+        <year>1883</year>
+    </book>
+    <book>
+        <author>Gogol</author>
+        <title>Dead Souls</title>
+        <year>1842</year>
+    </book>
+    <book>
+        <author>Rowling</author>
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <year>1997</year>
+    </book>
+    <book>
+        <author>Dovzhenko</author>
+        <title>The Enchanted Desna</title>
+        <year>1956</year>
+    </book>
+    <book>
+        <author>Tiutiunnyk</author>
+        <title>Klymko</title>
+        <year>1976</year>
+    </book>
+    <book>
+        <author>Tiutiunnyk</author>
+        <title>A Little Light Far off in the Field</title>
+        <year>1979</year>
+    </book>
+    <book>
+        <author>Balzac</author>
+        <title>Gobseck</title>
+        <year>1830</year>
+    </book>
+    <book>
+        <author>Simon</author>
+        <title>Something</title>
+        <year>1830</year>
+    </book>
+</library>

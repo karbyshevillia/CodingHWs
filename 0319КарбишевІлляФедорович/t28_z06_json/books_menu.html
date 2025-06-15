@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	</head>
+	<title>Книжки</title>
+	<body>
+		<h3>Головне меню роботи</h3>
+		<form method=POST action="http://localhost:8000/cgi-bin/menu_script.py">
+			<p>
+				<b><i>Виберіть пункт меню:</i></b><br>
+				<input type=radio name="menu" align=LEFT value="1" checked>Показати вміст файлу<br>
+				<input type=radio name="menu" align=LEFT value="2">Пошук за характеристиками<br>
+				<b><i>Введіть параметри:</i></b><br>
+				Файл .json з даними книжок: <input type=file name="file_name" value=""><br>
+				<input type=submit value="Виконати">
+			</p>
+		</form>
+	</body>
+</html>
